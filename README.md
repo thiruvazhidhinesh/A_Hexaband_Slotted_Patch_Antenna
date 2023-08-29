@@ -1,4 +1,5 @@
 # A_Hexaband_Slotted_Patch_Antenna
+![image](https://github.com/thiruvazhidhinesh/A_Hexaband_Slotted_Patch_Antenna/assets/111569436/aa77f179-78d0-426b-b021-7feb1f58a51a)
 In this Project, a Hexaband Slotted Patch Antenna is proposed for 5G (3.0 GHz), 
 GPS L5 (1.17 GHz), Cordless Telecommunication (1.9 GHz), Wireless Local Area 
 Network (WLAN) IEEE 802.11b/g/n (2.4 GHz), LTE (Long Term Evolution) (0.7 GHz) 
